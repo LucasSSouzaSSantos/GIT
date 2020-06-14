@@ -18,13 +18,16 @@ Aula 02:
 - Vantagens
 - Exemplos de Projetos que usam Git
 - Sistema de Três Estados
+    - Estado Modificado
+    - Estado Preparado
+    - Estado Consolidado
 - Fluxo dos Tres estados
 - Fluxo de Operação do Git
 - Git e Github
 
 Aula 03:
-    Baixar, instalar e configurar o git no windows
+- Baixar, instalar e configurar o git no windows
 
 Aula 04: 
-    comandos básico no git
+- comandos básico no git
 
