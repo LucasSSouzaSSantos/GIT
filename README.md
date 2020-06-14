@@ -1,1 +1,3 @@
-# GIT
+ Curso sobre GIT do canal do youtube boson Treinamentos
+
+ Esse curso oferece conhecimentos sobre sistemas de controle de versão; como baixar, instalar e configurar um git...
