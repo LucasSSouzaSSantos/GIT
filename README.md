@@ -23,5 +23,8 @@ Aula 02:
 - Git e Github
 
 Aula 03:
-    Baixar, instalar e configurar o git
+    Baixar, instalar e configurar o git no windows
+
+Aula 04: 
+    comandos básico no git
 
