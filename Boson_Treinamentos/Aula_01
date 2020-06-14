@@ -101,4 +101,8 @@ e criar um novo projeto!
     Git
     Mercurial
 
+Fluxo de Operações Básico em um SCV
+        >>>> Branch >>>>>>> Branch >>>
+Master                                  Master
+        >>>> Branch >>>>>>> Branch >>>
 
