@@ -1,0 +1,41 @@
+Curso de Git - O que é um Sistema de Controle de Versão
+
+O que é Controle de Versão?
+
+- Controle de Versão(CV) trata do gerenciamento de versões de
+um projeto, incluindo documentos, código-fonte, programmas, etc.
+- Cada alteração nos arquivos de um projeto deve ser rastreado.
+- CV registra essas alterações e fornece meios de desfazê-las, se
+necessário.
+- Muitas vezes chamado de Controle de Revisão.
+
+Por quê precisamos de Controle de Versão ?
+- Tarefas comuns a trabalhos de criação de conteúdo: 
+    . criar
+    . salvar
+    . editar
+    . salvar novamente
+    . abrir novamente 
+    . salvar outra vez 
+    . comparar arquivos 
+    . compartilhar com colegas 
+    . colegas editam 
+    . colegas salvam
+
+Por quê precisamos de Controle de Versão?
+- Como sabemos o que foi modificado em cada revisão ?
+- Ou por quê tais modificações foram revisadas ?
+- E se eu precisar desfazer alguma alteração ?
+- Ou ainda, saber quem realizou alterações 
+- Como evitar que uma alteração seja sobrescrita por
+outra pessoa?
+
+
+
+
+
+
+
+
+
+
