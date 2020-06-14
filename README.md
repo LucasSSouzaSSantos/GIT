@@ -21,3 +21,7 @@ Aula 02:
 - Fluxo dos Tres estados
 - Fluxo de Operação do Git
 - Git e Github
+
+Aula 03:
+    Baixar, instalar e configurar o git
+
