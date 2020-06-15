@@ -45,7 +45,6 @@ Aula 06: Trabalhar com Repositorio comandos git log e git show
     - Commit
     - Identificaç~ao do Commit 
     - Exercício passo-a-passo
+    - clonagem
 
 Aula 07: Histórico e versões com comandos git log e git show
-
-vai ficcar pra depois
