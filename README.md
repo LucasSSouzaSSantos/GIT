@@ -30,4 +30,7 @@ Aula 03:
 
 Aula 04: 
 - comandos básico no git
+- como criar um diretório de trabalho com o git init
+- como usar os comandos git add, git commit
+- usar o comando git log para ver as alterações dos arquivos.
 
