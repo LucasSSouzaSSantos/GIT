@@ -48,3 +48,7 @@ Aula 06: Trabalhar com Repositorio comandos git log e git show
     - clonagem
 
 Aula 07: Histórico e versões com comandos git log e git show
+    - git log 
+        o git log é usado para buscar o nome do commit
+    - git show
+        o git show e o nome do commit pode ser visto as alterações no projeto.
