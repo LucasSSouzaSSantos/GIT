@@ -54,4 +54,5 @@ Aula 07: Histórico e versões com comandos git log e git show
         o git show e o nome do commit pode ser visto as alterações no projeto.
 
 Aula 08: Comparar alterações nos arquivos com o git diff
-    
+    - git diff
+        
