@@ -34,3 +34,6 @@ Aula 04:
 - como usar os comandos git add, git commit
 - usar o comando git log para ver as alterações dos arquivos.
 
+Aula 05: Como obter ajuda com comando help
+    - Comando
+        - git help
