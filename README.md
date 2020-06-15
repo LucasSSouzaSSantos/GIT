@@ -47,3 +47,5 @@ Aula 06: Trabalhar com Repositorio comandos git log e git show
     - Exercício passo-a-passo
 
 Aula 07: Histórico e versões com comandos git log e git show
+
+vai ficcar pra depois
