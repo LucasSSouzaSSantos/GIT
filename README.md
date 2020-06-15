@@ -37,3 +37,11 @@ Aula 04:
 Aula 05: Como obter ajuda com comando help
     - Comando
         - git help
+
+Aula 06: Trabalhar com Repositorio comandos git log e git show
+    - Repositório
+    - Diretório
+    - Staging area
+    - Commit
+    - Identificaç~ao do Commit 
+    - Exercício passo-a-passo
