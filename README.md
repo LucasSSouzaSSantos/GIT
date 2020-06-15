@@ -1,8 +1,8 @@
  Curso sobre GIT do canal do youtube boson Treinamentos
 
- Esse curso oferece conhecimentos sobre sistemas de controle de versão; como baixar, instalar e configurar um git.
+ Esse curso oferece conhecimentos sobre sistemas de controle de versão: como baixar, instalar e configurar o git para usar em projetos domesticos ou em equipe de trabalho e faculdade.
 
- As aulas fala sobre:
+As aulas falam sobre:
 
 Aula 01: 
 - O que é Controle de Versão?
