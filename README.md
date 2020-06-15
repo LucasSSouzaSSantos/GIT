@@ -4,7 +4,7 @@
 
 As aulas falam sobre:
 
-Aula 01: 
+Aula 01: O que é um sistema de controle de versão
 - O que é Controle de Versão?
 - Por quê precisamos de Controle de Versão ?
 - Por quê precisamos de Controle de Versão?
@@ -13,7 +13,7 @@ Aula 01:
 - Tipos de Sistemas de Controle de Versão
 e muito mais.
 
-Aula 02:
+Aula 02: Introdução ao git
 - Fala da história especificamente do GIT
 - Vantagens
 - Exemplos de Projetos que usam Git
@@ -25,7 +25,7 @@ Aula 02:
 - Fluxo de Operação do Git
 - Git e Github
 
-Aula 03:
+Aula 03: como baixar e instalar
 - Baixar, instalar e configurar o git no windows
 
 Aula 04: 
@@ -52,3 +52,6 @@ Aula 07: Histórico e versões com comandos git log e git show
         o git log é usado para buscar o nome do commit
     - git show
         o git show e o nome do commit pode ser visto as alterações no projeto.
+
+Aula 08: Comparar alterações nos arquivos com o git diff
+    
