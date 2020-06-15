@@ -55,4 +55,7 @@ Aula 07: Histórico e versões com comandos git log e git show
 
 Aula 08: Comparar alterações nos arquivos com o git diff
     - git diff
-        
+
+Aula 09: Como excluir e restaurar arquivos
+    - git rm nome_do_arquivo  exclusão de arquivo
+    
