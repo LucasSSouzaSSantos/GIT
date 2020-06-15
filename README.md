@@ -46,4 +46,4 @@ Aula 06: Trabalhar com Repositorio comandos git log e git show
     - Identificaç~ao do Commit 
     - Exercício passo-a-passo
 
-Aula 07: 
+Aula 07: Histórico e versões com comandos git log e git show
