@@ -22,3 +22,11 @@ Cancelar uma operação revert
     Cancelar uma operação git revert com erros:
     git revert --abort
 
+Regras importantes
+
+    1. Deve-se trabalhar em um diretório de trabalho limpo.
+       Exercultar sempre git add e git commit antes de tentar 
+       reverter commit 
+    2. Novamente: não mude o passado - ao menos não por
+       enquanto!
+
