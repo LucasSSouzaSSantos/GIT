@@ -58,4 +58,8 @@ Aula 08: Comparar alterações nos arquivos com o git diff
 
 Aula 09: Como excluir e restaurar arquivos
     - git rm nome_do_arquivo  exclusão de arquivo
-    
+
+nota:
+    Por motivos de praticidade não continuei com o curso de git do canal da boson treinamentos,
+    já que os conhecimentos básicos, que eu precisava, já foi oferecido. Mas ainda tem mais dois
+    vídeos no canal para concluir em definitivo o curso de git.
