@@ -18,4 +18,3 @@ restauração de arquivo
         E agora digite:
             git checkout f1b9~1 arq
         pronto
-
