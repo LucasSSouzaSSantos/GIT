@@ -1,0 +1,22 @@
+Log do Commit 
+O log do commit lista as seguintes informações
+    - Nome do commit(via hash)
+    - Autor 
+    - Email
+    - Data
+    - Descrição
+
+Visualizar Alterações Realizadas
+Podemos visualizar as alterações realizadas nos arquivos de um 
+projeto, com detalhes, usando o comando git show:
+
+git show [nome-commit] 
+O nome do commit pode ser obtido com o comando git log, e basta
+usar a partir dos quatro primeiros caracacteres para realizar a
+consulta. Se naõ fornecido, serão mostrados detalhes do últimos 
+arquivos consolidado. 
+
+
+
+
+
