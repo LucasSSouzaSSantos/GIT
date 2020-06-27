@@ -1,11 +1,31 @@
-Curso de UML O que é um Diagrama de Classes
+O que é um Diagrama de Classes
 
+Um diagrama de classes é usado para descrever a estrutura estática
+de classes no sistema, permitindo definir os atributos, operações
+(métodos) e os relacionamentos entre as classes.
 
+Apresenta uma visão estática dda organização das classes definindo
+suaestrutura lógica.
 
+É um dos diagramas mais populares, e serve como base para a
+construção de outros diagramas UML.
 
+Basicamente, descrevem o que deve estar presente 
+no sistema modelado.
 
+Classes, Atributos e Métodos
 
+Uma classe é uma representação de um item do mundo real, 
+físico ou abstrato, na forma de um tipo de dados
+personalizado.
 
+As classes possuem estruturas internas chamadas de atributos 
+e de métodos.
 
+Atributos são usados para armazenar os dados dos objetos de 
+uma classe.
 
+Métodos são as operações, ou funções que a instância de 
+classe pode executar.
 
+Uma instância de classe é chamada de Objeto.
