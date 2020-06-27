@@ -1,0 +1,20 @@
+exclusão de arquivo 
+    git rm nome_do_arquivo
+    git commit nome_do_arquivo -m "mensagem"
+
+restauração de arquivo
+    primeiro é preciso do nome do arquivo 
+    comando:
+        git log --diff-filter=D --summary e pega o nome do arquivo
+        git checkout log~1 nome_do_arquivo
+    exemplo
+        tenho um arquivo com o nome "arq" que foi excluído, para recuperar eu digito: 
+            git log --diff-filter=D --summary
+        aparecerá algo parecido há:
+            commit f1b91b5...
+            Author: nome do autor cadastrado...
+        Antes de limpar a tela pegue os 4 primeiros da caractere no campo commit
+            f1b9 
+        E agora digite:
+            git checkout f1b9~1 arq
+        pronto
