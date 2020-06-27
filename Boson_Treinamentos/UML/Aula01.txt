@@ -64,48 +64,22 @@ O que um Diagrama representa?
 		> Dinâmica(comportamental) - comportamental dinâmico por meio de 
 		colaboração entre os objetos e mudanças de sues estados internos.
 
+Diagramas UML
+		Estruturais 						Comportamentais
+	> Classes						> Caso de Uso
+	> Objetos 						> Sequência
+	> Pacotes						> Comunicação
+	> componentes                   > Máquina de Estados
+	> Implantação					> Atividade
+	> Estrutura Composta			> Visão Geral de Interação
+	> Perfil						> Temporização
 
+Quem se beneficia dos diagrams UML ?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> Proprietário do Produto
+> Analista de Negócios
+> Analista de Sistemas
+> Operadores do Sistema
+> Desenvolverdor/Programador
+> Gerentes de Qualidade
 
