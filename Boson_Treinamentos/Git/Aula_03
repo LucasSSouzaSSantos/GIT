@@ -1,0 +1,28 @@
+Configuração de instalação
+windons:
+- Click duplo no instalador escolher a pasta para instalar, mas é melhor deixar
+a padrão: 
+c:\Program Files\Git
+- Depois pode ser selecionados os componentes que serão
+ instalados.
+- Marcar o Additional icons para poder criar o icone na área de trabalho
+- Deixar marcado o windows Explorer integrated
+para poder uma interface grafica ou trabalhar com linha de comando
+- E deixa o restante como estar
+- Ele vai perguntar se é pra criar um atalho na área de trabalha é só clicar em next
+- Na próxima tela ele pede pra selecionar o editor de texto de sua preferência por padrão é VIM mas pode ser alterado
+- Adjusting your PATH environment deixe o padrão
+- Próximo deixar o padrão
+- Importante: deixe a primeira opção marcada e click em nexts
+- Na próxima tela deixe o padrão e click em next
+- Na próxima tela deixe o padrão e click em next
+- Na próxima tele deixe o padrão e click em install
+
+- Finalizada a instalação desmaque as caixa de texto e 
+clink em finish
+
+- Abrir um promp de comando e digite o comando 
+git --version
+ele deve mostrar a versão atual do git e o sistema operacional 
+da máquina windows
+- Abrir o git bash criando na área de trabalho.
