@@ -55,7 +55,14 @@ Histórico
 		- OMG padroniza o UML 1.0
 		- Em novembro /1997 é lançado o UML 1.1 pela Rational
 
+O que um Diagrama representa?
 
+	Os diagramas representam duas visões distintas de um modelo de
+	sistema:
+		> Estático(estrutural) - estrutura estática por meio de objetos,
+		operações, relações e atributos.
+		> Dinâmica(comportamental) - comportamental dinâmico por meio de 
+		colaboração entre os objetos e mudanças de sues estados internos.
 
 
 
