@@ -1,0 +1,104 @@
+O que é UML ?
+
+Trata-se de uma linguagem unificada que habilita profissionais de TI
+a modelar e documentar aplicações de software.
+
+Em termos de design, a UML oferece um meio de visualizar a
+arquitetura de um sistema por meio de diagramas, incluindo 
+atividades, componentes individuais do sitema, a interação desses
+componentes, interfaces, interação com o mundo externo, entre
+outras.
+
+É importante notar que a UML não é um método de desevolvimento
+em si, e é independente de plataforma/ linguagem.
+
+versão mais atual: 2.4.1
+
+Termos-chaves
+
+Rational  software: Empresa que fornecia ferramentas para prática
+de engenharia de software. Vendida para a IBM em 2003.
+
+OMG: Consórcio internacional de padrões da indústria de
+computadores, sem fins lucrativos, com representantes do governo,
+indústria e academia. Fornece especificações para padrões(mas 
+não implementações). Áreas de atuação da OMG incluem sistemas
+financeiros, de saúde, armazenamento de dados, blockchain, IoT,
+cibersegurança e astronomia.
+
+Diagrama: Representação gráfica(geralmente parcial) do modelo
+de um sistema.
+
+Histórico
+	> UML - Unified Modeling Language / Linguagem de Modelagem
+	Unificada - é uma linguagem de modelagem de propósito geral,
+	para desenvolvimento em engenharia de software, que permite
+	visualizar de uma forma padronizada o projeto(design) de um
+	sistema.
+
+	> Desenvolvida pr Grady Booch, Ivar Jacobson e James 
+	Rumbaugh quando trabalhavam na Rational Software entre
+	1994 e 1995.
+
+	> O object Management Group(OMG) adotou a UML como 
+	linguagem padrão em 1997, em 2005 foi publicada pela ISO
+	como um padrão aprovado.
+
+	> Década de 70 e 80
+		- Análise e Projeto Estruturado de Sistemas
+		- Domínio das linguagens procedurais
+	> Final dos anos 80
+		- Análise e Projeto de Sistemas Orientados a Objetos
+		- Técnicas de Modelagem varíadas
+		- Sem padronização
+	> 1997
+		- OMG padroniza o UML 1.0
+		- Em novembro /1997 é lançado o UML 1.1 pela Rational
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
