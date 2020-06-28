@@ -154,8 +154,11 @@ Exemplo de Fluxo de Eventos: Validar Usuário
 		pressionando um botão Cancelar, exibido na tela.
 		> Não são realizadas alterações na conta do cliente.
 		> Caso de uso é finalizado.
+	
 	Também existe o Fluxo de Exceção, empregado para descrever 
 possiveis restrições do sistema, como por exemplo não aceitar 
 cartão com validade vencida.
+
+
 
 
