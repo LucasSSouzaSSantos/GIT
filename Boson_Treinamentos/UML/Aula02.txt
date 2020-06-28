@@ -94,12 +94,4 @@ tipos de relacionamentos possíveis entre classes:
 	> Generalização
 
 Cada uma desses relacionamentos possui uma representação
-gráfica especifica. 
-
-
-
-
-
-
-
-
+gráfica especifica.
