@@ -10,16 +10,16 @@ ator"
 pretendido de um sistema, sem especificar como esse 
 comportamento é emplementado.
 
-Um caso de uso executa uma quantidade especifica de trabalho,
-realizando algo que seja de valor para um ator, como o 
-cálculo de um resultado, por exemplo.
+	Um caso de uso executa uma quantidade especifica de 
+trabalho, realizando algo que seja de valor para um ator, 
+como o cálculo de um resultado, por exemplo.
 
-Casos de uso podem ter variantes - casos de uso que são 
+	Casos de uso podem ter variantes - casos de uso que são 
 versões especializadas de outros casos de uso, incluídos como
-parte de outro caso de uso ou ainda que estendam o 
+parte de outro caso de uso ou ainda que estendam o
 comportamento de um caso base.
 
-Representam aspectos do comportamento de uma classe e modelam
-Requisitos.
+	Representam aspectos do comportamento de uma classe e 
+modelam Requisitos.
 
 
