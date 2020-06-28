@@ -3,8 +3,21 @@ Diagramas de Casos de Uso
 Ator -> representado por um boneco de palito
 Caso de Uso -> Representado por uma elipse e pelo seu nome
 Associação -> Representado por uma linha cheia
+Fronteira -> é a divisão entre a parte interna do sistema e a 
+			 parte externa.
+Cenário -> é aquilo que vai ser representado como caso de uso
+Assunto -> O cenário vai ter um nome, que é colocado acima da 
+		   representação do Caso de Uso
 
+Relacionamento entre Atores e Casos de Uso
 
+	Um ator se relaciona com um Caso de USo por meio de um 
+relacionamento de Associação:
 
-
-
++-------------+							+-------------------+
+|		 	  |							|					|
+|	Cliente   |-------------------------|	Efetua Pedido	|
+|		 	  |       Associação		|					|
++-------------+							+-------------------+
+Obs.: A representação gráfica que foi criada acima, não atende 
+ao padrão da uml.
