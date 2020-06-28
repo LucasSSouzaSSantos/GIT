@@ -105,12 +105,74 @@ Do tipo "Classe A possui uma Classe B"
 | Departamento	|					|	Instrutor		|	
 +---------------+1..*			   1+-------------------+	
 |				|<>-----------------|					|
+|				|diamante vazio		|					|
++---------------+					+-------------------+
+
+Relacionamento de Composição
+	Variação mais especifico da agregação, este 
+relacionamento indica uma dependência de ciclo de vida forte
+entre as classes, de modo que quando um  contêiner é 
+destruido, seu conteúdo também o é.
+
+Do tipo "Classe A parte da classe B"
+
++---------------+					+-------------------+
+| Departamento	|					|	Instrutor		|	
++---------------+ diamante cheio    +-------------------+	
+|				|<>-----------------|					|
 |				|					|					|
 +---------------+					+-------------------+
 
 
+Relacionamento de Genaralização/ Especialização
+	Relacionamento entre itens gerais(superclasses/
+classes-mãe) e tipos mais especificos desses itens
+(subclasses/classes-filha). Representa a Herança entre
+as classes.
+
+Do tipo "Classe A é um tipo de Classe B"
+
++---------------+					+-------------------+
+| Animal		|					|	Peixe   		|	
++---------------+   			    +-------------------+	
+|				|<i-----------------|					|
+|				|					|					|
++---------------+					+-------------------+
+
+A classe filha herda propriedade da classe mãe, 
+principalmente atributos e operações, e pode possuir seus
+próprios.
+
+Classe Associativa
+	São produzidas quando ocorrem associações com 
+multiplicidade muitos (*) em todas as extremidades. No geral
+, existem atributos da associação que não podem ser 
+armazenados em nenhuma das classes envolvidas.
 
 
 
++-----------------+				   +--------------------+
+| atributos		  |				   |	Filme		    |	
++-----------------+        	       +--------------------+
+|-nomeAtor: String|-------+--------|-titulo_filme:String|
+|				  |1..*   |	   1..*|-genero: String		|
++-----------------+	      | 	   +--------------------+
+						  |								
+						  |							
+						  |								
+					+-----------------+						
+					| Atuação		  |						
+					+-----------------+						
+					|-papelAtor:String|						
+					|				  |						
+					+-----------------+						
 
-
+Boas Práticas ao criar diagramas de classe
+> O nome da classe deve ser significativo, descrevendo um
+aspecto real do sistema.
+> Os relacionamentos entre os elementos devem ser 
+identificados antes de criar o diagrama.
+> Devem ser especificados os atributos e operações de cada
+classe.
+> Sempre que necessário, acrescente anotaçoes para ajudar a
+definir aspectos das classes ou seus relacionamentos.
