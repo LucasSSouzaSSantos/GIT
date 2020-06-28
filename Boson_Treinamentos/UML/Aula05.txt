@@ -1,0 +1,10 @@
+Diagramas de Casos de Uso
+
+Ator -> representado por um boneco de palito
+Caso de Uso -> Representado por uma elipse e pelo seu nome
+Associação -> Representado por uma linha cheia
+
+
+
+
+
