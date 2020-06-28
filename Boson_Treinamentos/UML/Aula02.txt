@@ -29,3 +29,77 @@ Métodos são as operações, ou funções que a instância de
 classe pode executar.
 
 Uma instância de classe é chamada de Objeto.
+
+Exemplo
+
+Classe: Pessoa
+
+Atributos: Altura, nome, Idade, Peso
+Métodos: Andar, Comer, Falar, Estudar, Dormir, Trabalhar
+
+Representação de uma Classe
+
+	Repressentamos uma classe usando um diagrama dividido em 
+	tres compartimentos:
+	> Nome:Inclui o nome e o estereótipo da classe 
+	(informação sobre a classe)
+	> Atributos: Lista de atributos da classe no formato 
+	nome: tipo ou nome: tipo = valor
+	> Operações: Lista de métodos de classe no formato 
+	métodos(parâmetros):tipo_retorno
+
+	+-------------------------------+
+	|Nome da classe 				|
+	+-------------------------------+
+	|atributos 						|
+	+-------------------------------+
+	|Métodos 						|
+	+-------------------------------+
+
+Visibilidade dos Membros(Atributos/Métodos)
+	Representamos a visibilidade dos atributos e das 
+	operações usando os modificadores de acesso a seguir:
+		> + Publico
+		> # Protegido
+		> - Privado
+		> ~ Pacote
+		> / Derivado
+
+Representaçaõ de uma classe
+
+	Exemplo: Representando uma classe Pessoa, que contém os
+	atributos nome, sobrenome e dataNasc, além do método 
+	calculaIdade:
+
+	+-------------------------------+
+	|			Pessoa				|
+	+-------------------------------+
+	|- nome: String					|
+	|- sobrenome: String			|
+	|- dataNasc: Date				|
+	+-------------------------------+
+	|+ calculaIdade(dataNasc): int 	|
+	|+ estuda(): void				|
+	+-------------------------------+
+
+Relacionamentos entre Classes
+
+Um Relacionamento é uma conexão entre itens. Existem vários
+tipos de relacionamentos possíveis entre classes:
+
+	> Dependência
+	> Associação
+	> Agregação
+	> Composição
+	> Generalização
+
+Cada uma desses relacionamentos possui uma representação
+gráfica especifica. 
+
+
+
+
+
+
+
+
