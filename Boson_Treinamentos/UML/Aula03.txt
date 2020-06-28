@@ -1,6 +1,45 @@
 Diagramas de Classes - Relacionamento
 
+Relacionamento de Dependencia
+	Dependência fraca, usualmente transiente, que uma classe
+usa informações e serviços de outra classe em algum momento,
+dependendo dela. 
+Do tipo "Classe A depende da Classe B".
 
 
++---------------+					+-------------------+
+| Carro			|					|	Roda			|	
++---------------+					+-------------------+	
+|				|------------------>|					|
+|				|					|					|
++---------------+					+-------------------+
 
+Multiplicidade
+	A multiplicidade é usada para determinar o número mínimo 
+e o número máximo de objetos envolvidos na associação, de 
+cada lado, e também especificar o nível de dependência entre 
+os objetos.
+
++-------------------------------------------------------+
+|Multiplicidade |				Significado				|
++---------------+---------------------------------------+
+|	   0..1		|No mínimo zero no máximo um. Indica	|
+|				|não-obrigatoriedade do Relacionamento 	|
++---------------+---------------------------------------+
+|	   1..1		|Um e somente um. Um objeto da classe se|
+|				|relaciona com um objeto de outra.	 	|
++---------------+---------------------------------------+
+|	   0..*		|Mínimo nenhum e no máximo muitos.   	|
+|				|										|
++---------------+---------------------------------------+
+|	   1..*		|Mínimo nenhum e no máximo muitos.		|
+|				|									 	|
++---------------+---------------------------------------+
+|	   *		|Muitos 								|
+|				|									 	|
++---------------+---------------------------------------+
+|	   2..7		|Mínimo 2 e no máximo 7. Ou seja, no 	|
+|				|mínimo duas e no máximo sete instância	|
+|				|envolvidas no relacionamentos			|
++---------------+---------------------------------------+
 
