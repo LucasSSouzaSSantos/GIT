@@ -9,7 +9,7 @@ Do tipo "Classe A depende da Classe B".
 
 +---------------+					+-------------------+
 | Carro			|					|	Roda			|	
-+---------------+					+-------------------+	
++---------------+  seta espaçada	+-------------------+	
 |				|------------------>|					|
 |				|					|					|
 +---------------+					+-------------------+
@@ -42,4 +42,75 @@ os objetos.
 |				|mínimo duas e no máximo sete instância	|
 |				|envolvidas no relacionamentos			|
 +---------------+---------------------------------------+
+
+
+Relacionamento de Associação
+
+	Relacionamento mais forte do que a dependência, indica 
+	que a classe mantém uma referência a outra classe ao 
+	longo do tempo. As associações podem conectar mais de 
+	duas classes.
+
+	Do tipo "Classe A tem uma Classe B"
+
+Obs.: A seta representa a Navegabilidade, que identifica o 
+sentido em que as informações são transmidas entre os objetos
+das classes relacionadas(relacionamento unidirecional).
+Navegabilidade não é obrigatória no diagrama(relacionamento
+bidirecional).
+
++---------------+					+-------------------+
+| Pessoa		|					|	Revista			|	
++---------------+*	seta cheia	   *+-------------------+	
+|				|------------------>|					|
+|				|					|					|
++---------------+					+-------------------+
+
+A associação pode ter um nome e possui multiplicidade
+
+Associação Ternária
+
+
++---------------+				   +-------------------+
+| Professor		|				   |	Turma		   |	
++---------------+Leciona /\	 Possui+-------------------+
+|				|-------/  \-------|       			   |
+|				|1..*   \  /   1..*|    			   |
++---------------+	     \/		   +-------------------+
+						  |								
+						  |Utiliza							
+						  |1..*								
+					+---------------+						
+					| Sala			|						
+					+---------------+						
+					|				|						
+					|				|						
+					+---------------+						
+
+Na prática, podemos ter associações n-árias, conectando
+quaisquer número de objetos de classes.
+
+
+Relacionamento de Agregação
+
+	Relacionamento mais especifico do que associação, indica
+que uma classe é um contêiner ou uma coleção de outras 
+classes. As classes contidas não dependem do contêiner -
+assim, quando o contêiner é destruído, as classes continuam
+existindo.
+
+Do tipo "Classe A possui uma Classe B"
+
++---------------+					+-------------------+
+| Departamento	|					|	Instrutor		|	
++---------------+1..*			   1+-------------------+	
+|				|<>-----------------|					|
+|				|					|					|
++---------------+					+-------------------+
+
+
+
+
+
+
 
