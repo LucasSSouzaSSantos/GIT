@@ -134,5 +134,28 @@ Exemplo de Fluxo de Eventos: Validar Usuário
 	Fluxo Principal:
 		> Sistema solicita ao cliente seu número de 
 		identificação(ID) e uma senha de acesso.
-		>
+		> Cliente digit seu ID e senha em um teclado
+		numérico.
+		> Cliente confirma as entradas, pressionando
+		Enter.
+		> Sistema verifica ID e senhas fornecidos.
+		> Se ID for válido e senha corresponder, 
+		sistema reconhece usuário, permitindo sua
+		entrada, finalizando caso de uso.
+	Fluxo Alternativo:
+		> Cliente fornece um ID ou senha inválidos.
+		> Neste caso, sistema reinicia o caso de uso.
+		> Se cliente fornecer credenciais erradas três vezes da
+		sequência, sistema cancela transação, e bloqueia acesso
+		do usuário por uma hora.
+		> Sistema registra tentativa de acesso em log.
+	Fluxo Alternativo:
+		> Cliente cancela transação a qualquer momento, 
+		pressionando um botão Cancelar, exibido na tela.
+		> Não são realizadas alterações na conta do cliente.
+		> Caso de uso é finalizado.
+	Também existe o Fluxo de Exceção, empregado para descrever 
+possiveis restrições do sistema, como por exemplo não aceitar 
+cartão com validade vencida.
+
 
